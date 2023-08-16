@@ -1,0 +1,32 @@
+---
+description: Opportunities and concerns for web 3 treasuries
+---
+
+# Opportunities & concerns
+
+**Web 3 opportunities for improving treasury systems**
+
+Blockchain technology can help enable a number of opportunities for improving how treasuries function and how they are operated. Some examples include:
+
+* **Transparency & accountability** - Using blockchain technology the transactions and assets owned by a community can be stored on a transparent public ledger system. This makes it easier to see how funds are being stored and disbursed which increases transparency and accountability. Community members can more easily track and verify how funds are spent which helps to increase stakeholder trust in any treasury processes and systems.
+* **Removing intermediaries** - Blockchain can help with eliminating the need for intermediaries to manage and distribute treasury assets, this helps reduce costs and custody risks and can also help with increasing process efficiencies.
+* **Reducing fraud and corruption** - The immutability of blockchain means that once a transaction is recorded, it can't be altered. This can help be a deterrent to actors from committing acts of fraud and corruption due to this ability to more easily track how funds have been used and allocated.
+* **Reducing transaction costs -** For treasuries involved in international transactions, blockchains and smart contracts deployed on top of these networks can help with providing faster and cheaper cross-border transfers compared to traditional banking systems.
+* **Easier auditing** - Having treasury transactions stored on a public ledger means that auditing oversight can happen as soon as funds are disbursed, which helps with spotting any irregularities sooner which can then be investigated and resolved.
+* **Automated smart contracts** - Treasury operations such as payments or contractual agreements can have the funds disbursed automatically through the use of smart contracts, where any of the conditions for distribution can be built in. Payments can then become more timely and require less manual oversight for disbursement. Automated liquidity management could also help with increasing the effectiveness of applying risk management strategies for protecting treasury assets.
+* **Improved data access & management** - Making all treasury transactions available on a public ledger will make it easier to access the data about the treasury, such as current available assets and any trends in how those assets are being used. This data can then be used to create better financial reports and forecasts to guide future decisions.
+* **Decentralized decision making** - For communities that want to increase the amount of participation in treasury decision making, a blockchain can help with providing a scalable and tamper proof solution for facilitating and storing any votes on chain to execute any governance decisions.
+* **Improved identity management** - Self sovereign identity (SSI) can help with providing evidence on who has received funding from the treasury, which helps with reducing any duplication or fraud. SSI can also help with enabling people to take ownership of their data and have control over who is able to access that data. Zero knowledge (ZK) proofs can also help with improving treasury management by enabling private voting mechanisms for governance decisions.
+* **Increased system robustness** - Centralised systems are a single point of failure for many existing treasury systems. A decentralized blockchain system means that the data and transactions are stored and distributed between multiple nodes that run the network. This helps make a system which is more resilient compared to centralised systems that can have localised failures or disasters.
+* **Improved security** - Security around treasury management can be improved through the adoption of cryptographic techniques to handle how any assets are disbursed. Effective security will require contributors involved in a treasuries operation to follow best practices when developing and improving any treasury systems and when securing their own private keys.
+
+
+
+**Current concerns for emerging web 3 treasuries**
+
+* **Volatility -** Cryptocurrencies and their value is currently very volatile, the value of the total assets under management for different web 3 treasuries can often change quickly. This factor makes it more difficult to execute effective financial planning and risk management. As these ecosystems start to mature and grow this problem could reduce over the long term.
+* **Governance complexity** - Increasing the participation in treasury decisions helps to make these systems more democratic, however there is an increased complexity in handling governance when more stakeholders are involved. Treasury systems will need to find suitable solutions such as delegated representatives and using simple governance processes for these treasury solutions to scale to a much larger audience.
+* **Voter apathy** - Decentralized ecosystems can be effective for inviting a wider range of voter participation in key treasury decisions, however this participation relies on the interest and willingness of the community to engage in governance. Creating solutions that are effective for decision making but that do not over burden the voter will be an essential part of enabling decentralized decision making to effectively scale.
+* **Lack of historical data** - As web 3 treasuries are still a new trend with many emerging ecosystems there is a lack of data on how they perform and behave in different environments. This lack of data and history makes it more complex over the short term to identify trends and effectively manage web 3 assets.
+* **Security concerns** - Which stakeholders have the ability to disburse treasury assets and how private keys are handled both create an ongoing concern for how treasury assets are securely handled. As these emerging treasuries grow in value these risks and any potential vulnerabilities will need to be resolved to prevent any significant loss from occurring.
+* **Centralisation concerns** - There is an ongoing risk that influential stakeholders with large amounts of coins / tokens could have an overly large amount of influence on these emerging networks and any decisions which get made. Democratic decentralized networks are currently difficult to implement at scale due to the ongoing threat of sybil attacks.
