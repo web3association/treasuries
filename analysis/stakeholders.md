@@ -71,6 +71,6 @@ Web 3 ecosystems are inherently digital first networks where anyone can particip
 
 
 
-**Ecosystem success will be highly influenced by the contributors involved**
+**The skill and competence of an ecosystems contributors will highly impact how it evolves and improves over time**
 
 Both nation states and corporations require highly skilled professionals that are competent in contributing towards the overall success and daily operation of these organisations. In a similar vein, the skill level and competence of the contributors involved in different web 3 ecosystems will also be highly influential on the long term evolution and success of these ecosystems. Ultimately it will be the people who are actually contributing towards improving these emerging web 3 ecosystems that end up creating the right incentives and reasons for community members to engage and participate in an ecosystem over the long term.
