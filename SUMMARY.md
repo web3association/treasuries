@@ -5,7 +5,7 @@
 ## Treasuries
 
 * [Definition, purpose & responsibilities](treasuries/definition-purpose-and-responsibilities.md)
-* [Operating process](treasuries/operating-process.md)
+* [Functional processes](treasuries/functional-processes.md)
 * [Importance of treasuries](treasuries/importance-of-treasuries.md)
 * [Example treasuries](treasuries/example-treasuries.md)
 

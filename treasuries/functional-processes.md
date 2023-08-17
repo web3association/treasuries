@@ -1,10 +1,10 @@
 ---
 description: >-
-  An overview of some of the core operating processes involved in treasury
+  An overview of some of the main functional processes involved in treasury
   management
 ---
 
-# Operating process
+# Functional processes
 
 Treasury management is complex and requires the use of a variety of different systems and processes for assets to be managed correctly and effectively. The differences in the approaches taken by each treasury will influence how effectively assets are managed and used to benefit the members of that community. The main high level processes involved in how a treasury operates includes the following:
 
