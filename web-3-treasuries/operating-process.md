@@ -62,6 +62,6 @@ A general purpose operating process can be applied to many areas of operation or
 
 **Applying this operating process to treasuries**
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/analysis/disbursement-operating-process" %}
-[Disbursement Operating Process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/analysis/disbursement-operating-process)
+{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process" %}
+[Disbursement Operating Process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process)
 {% endcontent-ref %}
