@@ -14,7 +14,7 @@
 * [Problems & differences](web-3-treasuries/problems-and-differences.md)
 * [Opportunities & concerns](web-3-treasuries/opportunities-and-concerns.md)
 * [Stakeholders](web-3-treasuries/stakeholders.md)
-* [Operating Process](web-3-treasuries/operating-process.md)
+* [Operating process](web-3-treasuries/operating-process.md)
 
 ## Resources
 
