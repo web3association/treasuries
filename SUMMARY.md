@@ -16,6 +16,7 @@
 * [Stakeholders](web-3-treasuries/stakeholders.md)
 * [Operating process](web-3-treasuries/operating-process.md)
 
-## Resources
+## 🔗 Links
 
 * [Disbursement](http://127.0.0.1:5000/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
+* [Suggestions](http://127.0.0.1:5000/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
