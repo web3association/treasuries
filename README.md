@@ -8,9 +8,11 @@ description: Overview about the purpose of these treasury knowledge resources
 
 
 
-These resources are being created to help provide useful research and analysis about treasury systems to create insightful and actionable information for learning about how Web 3 ecosystem treasuries can be operated and improved. These resources could be useful for anyone interested in learning about treasuries! The resources will focus on web 3 ecosystems specifically and cover treasury development opportunities however this same information can also be useful for anyone who is improving any existing treasury systems.
+These resources aim to offer research and analysis about treasury systems that provide insightful and actionable information about how Web 3 ecosystem treasuries can be operated and improved. These resources should be useful for anyone interested in learning about treasuries!&#x20;
 
-These resources are provided as a public good to help benefit any nation, organisation and emerging web 3 community. The goal for these resources is to help provide free and open access to insightful and actionable information about the current state and potential improvement opportunities for treasury systems.
+The resources will mostly focus on web 3 ecosystems and explore different treasury development opportunities. The same information should also be useful for anyone that is improving other existing treasury systems.
+
+These resources are provided as a public good to help benefit any nation, organisation and emerging web 3 community. The goal is to offer free and open access resources that help with providing insightful and actionable information about the current state and potential improvement opportunities for treasury systems.
 
 
 
