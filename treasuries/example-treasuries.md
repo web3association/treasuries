@@ -1,5 +1,5 @@
 ---
-description: Example nation state, corporation and web 3 treasuries
+description: Example nation state, corporation and Web3 treasuries
 ---
 
 # Example treasuries
@@ -22,9 +22,9 @@ Corporate treasuries play the vital role of managing the assets owned by an orga
 
 
 
-**Web 3 treasuries**
+**Web3 treasuries**
 
-Web 3 treasuries play an important role in the growth and stability of these emerging decentralized ecosystems helping to improve the underlying technology, enable and support new use cases and help with growing the community.
+Web3 treasuries play a pivotal role in the growth and stability of emerging decentralized ecosystems, treasuries help with funding initiatives that help to grow the community, improve the underlying technology and help with enabling and supporting new use cases.
 
 * [Ethereum foundation](https://ethereum.org/en/foundation/) - As of August 2023, the Ethereum Foundation manage a treasury [worth over $590 million](https://defillama.com/protocol/ethereum-foundation#treasury).
 * [Cardano](https://cardano.org/) - As of August 2023 the Cardano ecosystem manage a treasury [worth over $390 million](https://lookerstudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/ad3AC).

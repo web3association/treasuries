@@ -1,10 +1,10 @@
 ---
-description: Opportunities and concerns for web 3 treasuries
+description: Opportunities and concerns for Web3 treasuries
 ---
 
 # Opportunities & concerns
 
-**Web 3 opportunities for improving treasury systems**
+**Web3 opportunities for improving treasury systems**
 
 Blockchain technology can help enable a number of opportunities for improving how treasuries function and how they are operated. Some examples include:
 
@@ -22,11 +22,11 @@ Blockchain technology can help enable a number of opportunities for improving ho
 
 
 
-**Current concerns for emerging web 3 treasuries**
+**Current concerns for emerging Web3 treasuries**
 
-* **Volatility -** Cryptocurrencies and their value is currently very volatile, the value of the total assets under management for different web 3 treasuries can often change quickly. This factor makes it more difficult to execute effective financial planning and risk management. As these ecosystems start to mature and grow this problem could reduce over the long term.
+* **Volatility -** Cryptocurrencies and their value is currently very volatile, the value of the total assets under management for different Web3 treasuries can often change quickly. This factor makes it more difficult to execute effective financial planning and risk management. As these ecosystems start to mature and grow this problem could reduce over the long term.
 * **Governance complexity** - Increasing the participation in treasury decisions helps to make these systems more democratic, however there is an increased complexity in handling governance when more stakeholders are involved. Treasury systems will need to find suitable solutions such as delegated representatives and using simple governance processes for these treasury solutions to scale to a much larger audience.
 * **Voter apathy** - Decentralized ecosystems can be effective for inviting a wider range of voter participation in key treasury decisions, however this participation relies on the interest and willingness of the community to engage in governance. Creating solutions that are effective for decision making but that do not over burden the voter will be an essential part of enabling decentralized decision making to effectively scale.
-* **Lack of historical data** - As web 3 treasuries are still a new trend with many emerging ecosystems there is a lack of data on how they perform and behave in different environments. This lack of data and history makes it more complex over the short term to identify trends and effectively manage web 3 assets.
+* **Lack of historical data** - As Web3 treasuries are still a new trend with many emerging ecosystems there is a lack of data on how they perform and behave in different environments. This lack of data and history makes it more complex over the short term to identify trends and effectively manage Web3 assets.
 * **Security concerns** - Which stakeholders have the ability to disburse treasury assets and how private keys are handled both create an ongoing concern for how treasury assets are securely handled. As these emerging treasuries grow in value these risks and any potential vulnerabilities will need to be resolved to prevent any significant loss from occurring.
 * **Centralisation concerns** - There is an ongoing risk that influential stakeholders with large amounts of coins / tokens could have an overly large amount of influence on these emerging networks and any decisions which get made. Democratic decentralized networks are currently difficult to implement at scale due to the ongoing threat of sybil attacks.

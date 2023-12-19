@@ -1,26 +1,26 @@
 ---
 description: >-
   Overview about the community member, contributor and founding entity
-  stakeholders found in web 3 ecosystems
+  stakeholders found in Web3 ecosystems
 ---
 
 # Stakeholders
 
-Web 3 ecosystems have three groupings of stakeholders worth discussing to explore how they  participate and contribute towards a treasuries decisions and operation.
+Web3 ecosystems have three groupings of stakeholders worth discussing to explore how they  participate and contribute towards a treasuries decisions and operation.
 
-<figure><img src="../.gitbook/assets/treasury-stakeholders.jpg" alt=""><figcaption><p>Web 3 ecosystem stakeholders</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/treasury-stakeholders.jpg" alt=""><figcaption><p>Web3 ecosystem stakeholders</p></figcaption></figure>
 
 **Community members**
 
 * **Who are they** - Community members include anyone that participates in the ecosystem. This could mean anyone that attends ecosystem events, owns any coins or tokens, uses any of the protocols or applications available or has any other form of interest or participation in the ecosystem. Both contributors and members of the founding entities would also be classed as community members.
-* **Treasury involvement** - Community members may or may not be able to participate in treasury decisions depending on how an ecosystem manages their treasury. Even if the community members are able to participate in these decisions a number of those members may not be interested in participating in these decisions or related activities. For ecosystems that are prioritising decentralization of the treasury a longer term goal for the ecosystem will be increasing the participation of community members by enabling them to participate in voting on any important treasury decisions. This could also mean giving them the possibility to delegate their vote to another community representative. Community members can range from being very engaged to very passive when participating in any treasury processes or web 3 ecosystems in general.
+* **Treasury involvement** - Community members may or may not be able to participate in treasury decisions depending on how an ecosystem manages their treasury. Even if the community members are able to participate in these decisions a number of those members may not be interested in participating in these decisions or related activities. For ecosystems that are prioritising decentralization of the treasury a longer term goal for the ecosystem will be increasing the participation of community members by enabling them to participate in voting on any important treasury decisions. This could also mean giving them the possibility to delegate their vote to another community representative. Community members can range from being very engaged to very passive when participating in any treasury processes or Web3 ecosystems in general.
 
 
 
 **Contributors**
 
 * **Who are they** - Contributors are anyone that helps with supporting or improving the ecosystem itself that the treasury is responsible for. This could mean working on the infrastructure, growth or events related to the ecosystem. It would also naturally include anyone who contributes towards operating the treasury itself.
-* **Treasury involvement** - There are usually many important areas that require contribution efforts in a web 3 ecosystem such as the infrastructure that supports the blockchains operation. This means it will be fairly common that only a subset of ecosystem contributors will directly be helping with operating any treasury systems and processes. Contributors that work on operating the treasury could be selected by a founding entity or be elected through community governance. In terms of payment for these contributors, this could come from the founding entities or through treasury funds. There is an amount of time commitment involved with becoming a contributor in the ecosystems as those interested would need to develop a certain level of skill and knowledge to effectively contribute towards improving and maintaining the ecosystems treasury systems and processes.
+* **Treasury involvement** - There are usually many important areas that require contribution efforts in a Web3 ecosystem such as the infrastructure that supports the blockchains operation. This means it will be fairly common that only a subset of ecosystem contributors will directly be helping with operating any treasury systems and processes. Contributors that work on operating the treasury could be selected by a founding entity or be elected through community governance. In terms of payment for these contributors, this could come from the founding entities or through treasury funds. There is an amount of time commitment involved with becoming a contributor in the ecosystems as those interested would need to develop a certain level of skill and knowledge to effectively contribute towards improving and maintaining the ecosystems treasury systems and processes.
 
 
 
@@ -35,7 +35,7 @@ Web 3 ecosystems have three groupings of stakeholders worth discussing to explor
 
 Further considerations should be made for the ecosystems that have the longer term goal of increasing the amount of decentralization in how their treasury operates.
 
-<figure><img src="../.gitbook/assets/treasury-stakeholders-long-term.jpg" alt=""><figcaption><p>Long term considerations for web 3 ecosystem stakeholders</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/treasury-stakeholders-long-term.jpg" alt=""><figcaption><p>Long term considerations for Web3 ecosystem stakeholders</p></figcaption></figure>
 
 **Community influence on treasury decisions should increase over time**
 
@@ -45,7 +45,7 @@ Increasing decentralization of the treasury will mean pushing decisions about ho
 
 **Contributors involvement in the treasuries operation should increase over time**
 
-For a web 3 ecosystem to become more decentralized the responsibility of contributors who help with the operation of the treasury should increase over time. This will mean creating solutions that allow for more of the operational control of the treasury to be handled by contributors in the ecosystem rather than by the founding entities.
+For a Web3 ecosystem to become more decentralized the responsibility of contributors who help with the operation of the treasury should increase over time. This will mean creating solutions that allow for more of the operational control of the treasury to be handled by contributors in the ecosystem rather than by the founding entities.
 
 
 
@@ -61,16 +61,16 @@ The treasury systems and processes may require more or less contribution effort 
 
 
 
-### Long term importance of contributors for web 3 treasuries
+### Long term importance of contributors for Web3 treasuries
 
 
 
 **Community members have high flexibility to move to other ecosystems**
 
-Web 3 ecosystems are inherently digital first networks where anyone can participate in and use them for their own benefit. This means community members are easily able to use and benefit from multiple ecosystems and then also fully migrate from one ecosystem to another. This reality helps to highlight the importance of ecosystems being able to attract and retain quality contributor talent so that ecosystem can continue to grow and develop at a similar or faster pace than its competitors.
+Web3 ecosystems are inherently digital first networks where anyone can participate in and use them for their own benefit. This means community members are easily able to use and benefit from multiple ecosystems and then also fully migrate from one ecosystem to another. This reality helps to highlight the importance of ecosystems being able to attract and retain quality contributor talent so that ecosystem can continue to grow and develop at a similar or faster pace than its competitors.
 
 
 
 **The skill and competence of an ecosystems contributors will highly impact how it evolves and improves over time**
 
-Both nation states and corporations require highly skilled professionals that are competent in contributing towards the overall success and daily operation of these organisations. In a similar vein, the skill level and competence of the contributors involved in different web 3 ecosystems will also be highly influential on the long term evolution and success of these ecosystems. Ultimately it will be the people who are actually contributing towards improving these emerging web 3 ecosystems that end up creating the right incentives and reasons for community members to engage and participate in an ecosystem over the long term.
+Both nation states and corporations require highly skilled professionals that are competent in contributing towards the overall success and daily operation of these organisations. In a similar vein, the skill level and competence of the contributors involved in different Web3 ecosystems will also be highly influential on the long term evolution and success of these ecosystems. Ultimately it will be the people who are actually contributing towards improving these emerging Web3 ecosystems that end up creating the right incentives and reasons for community members to engage and participate in an ecosystem over the long term.

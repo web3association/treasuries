@@ -4,9 +4,9 @@ description: >-
   systems and processes to help better identify any problems and opportunities
 ---
 
-# Operating Process
+# Operating process
 
-Web 3 ecosystems need be well operated and constantly improved to remain competitive in a fast changing environment where new technologies, consumer preferences and approaches continue to emerge that can influence how these networks can be most effectively scaled, operated and used.
+Web3 ecosystems need be well operated and constantly improved to remain competitive in a fast changing environment where new technologies, consumer preferences and approaches continue to emerge that can influence how these networks can be most effectively scaled, operated and used.
 
 
 
@@ -14,7 +14,7 @@ To better think about how a treasury could be operated and improved we can outli
 
 
 
-How effectively an ecosystem is able to repeatedly move through this operating process will influence the quality of the outcomes they are able to produce. We can also explore how this process currently applies to existing ecosystems such as nation states or corporations to better compare how these different ecosystems operate compared to web 3 ecosystems. This comparison can then help with better identifying what problems and opportunities exist for improving web 3 treasury systems and processes.
+How effectively an ecosystem is able to repeatedly move through this operating process will influence the quality of the outcomes they are able to produce. We can also explore how this process currently applies to existing ecosystems such as nation states or corporations to better compare how these different ecosystems operate compared to Web3 ecosystems. This comparison can then help with better identifying what problems and opportunities exist for improving Web3 treasury systems and processes.
 
 
 
@@ -50,9 +50,9 @@ The final step is to execute the selected ideas and then measure any resulting o
 
 
 
-**This operating process can be applied to any nation state, corporation or web 3 ecosystem**
+**This operating process can be applied to any nation state, corporation or Web3 ecosystem**
 
-Nation states, corporations and web 3 ecosystems will repeatedly loop through this general purpose process when operating and improving their own ecosystems. The better an ecosystem is at going through this operating process loop the more accurate and effective their efforts should become on generating the desired outcomes.
+Nation states, corporations and Web3 ecosystems will repeatedly loop through this general purpose process when operating and improving their own ecosystems. The better an ecosystem is at going through this operating process loop the more accurate and effective their efforts should become on generating the desired outcomes.
 
 
 
@@ -62,6 +62,6 @@ A general purpose operating process can be applied to many areas of operation or
 
 **Applying this operating process to treasuries**
 
-{% content-ref url="http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process" %}
-[Disbursement Operating Process](http://127.0.0.1:5000/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process" %}
+[Disbursement operating process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/disbursement-process/disbursement-operating-process)
 {% endcontent-ref %}
