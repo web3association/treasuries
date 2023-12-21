@@ -45,9 +45,9 @@ The third step focusses on generating ideas for how the selected priorities coul
 
 
 
-**4. Execution**
+**4. Contributors**
 
-The final step is to execute the selected ideas and then measure any resulting outcome. Measuring the outcome will be important for determining whether any of the priorities are being addressed before the ecosystem then repeats another loop of this same operating process again. The execution of any idea will require contributors to have the right skills and competencies to take an idea through to completion. The measured outcomes from these contribution efforts will create more data, insights and analysis which is then fed back into this recurring operating process in the form of more knowledge for future consideration.
+The final step is to select contributors that will  executed the most promising ideas and then measure any resulting outcome. Measuring the outcome will be a important part of determining whether any of the priorities have been addressed before the ecosystem then repeats another loop of this same operating process again. The execution of any idea will require contributors to have the right skills and competencies to take an idea through to completion. The measured outcomes from these contribution efforts will create more data, insights and analysis which is then fed back into this recurring operating process in the form of more knowledge for future consideration.
 
 
 
@@ -57,7 +57,7 @@ Nation states, corporations and Web3 ecosystems will repeatedly loop through thi
 
 
 
-A general purpose operating process can be applied to many areas of operation or areas that need improvement within an ecosystem, whether that’s at a high strategical level or at a localised execution level. For example a high level strategy based operating process could be to identify which areas within an ecosystem have the biggest opportunity for improvement. Using this operating process you would look at all of the relevant processes and systems to fully understand how the ecosystem operates (1. knowledge). You would then identify and define where the biggest problems and opportunities exist (2. priorities), generate ideas on how to address those priorities (3. ideas) and then execute those ideas before finally reflecting on whether the priorities have been addressed (4. execution). Another more localised example of applying this operating process could be at the execution layer, for example a development team could be looking to improve their product offering by reviewing and updating the code and tech stack that is currently deployed.
+A general purpose operating process can be applied to many areas of operation or areas that need improvement within an ecosystem, whether that’s at a high strategical level or at a localised execution level. For example a high level strategy based operating process could be to identify which areas within an ecosystem have the biggest opportunity for improvement. Using this operating process you would look at all of the relevant processes and systems to fully understand how the ecosystem operates (1. knowledge). You would then identify and define where the biggest problems and opportunities exist (2. priorities), generate ideas on how to address those priorities (3. ideas) and then execute those ideas before finally reflecting on whether the priorities have been addressed (4. contributors). Another more localised example of applying this operating process could be at the execution layer, for example a development team could be looking to improve their product offering by reviewing and updating the code and tech stack that is currently deployed.
 
 
 
