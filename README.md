@@ -4,7 +4,7 @@ description: Overview about these treasury knowledge resources
 
 # About
 
-<figure><img src=".gitbook/assets/treasuries-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/treasury-header-generated.png" alt=""><figcaption></figcaption></figure>
 
 
 
