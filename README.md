@@ -1,5 +1,5 @@
 ---
-description: Overview about these treasury knowledge resources
+description: Overview about these treasury educational resources
 ---
 
 # About
