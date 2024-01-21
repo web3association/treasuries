@@ -35,7 +35,7 @@ Web3 ecosystems have three different stakeholders that are worth discussing to e
 
 Further considerations can be made about the ecosystems that have the longer term goal of increasing the amount of decentralisation in how their treasury is operated.
 
-<figure><img src="../.gitbook/assets/treasury-stakeholders-long-term.jpg" alt=""><figcaption><p>Long term considerations for Web3 ecosystem stakeholders</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/treasury-stakeholders-long-term.jpg" alt=""><figcaption></figcaption></figure>
 
 **Community influence on treasury decisions should increase over time**
 
