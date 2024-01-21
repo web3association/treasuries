@@ -6,13 +6,7 @@ description: Overview about these treasury educational resources
 
 <figure><img src=".gitbook/assets/treasury-header-generated.png" alt=""><figcaption></figcaption></figure>
 
-
-
-These resources aim to provide insightful and actionable information about how Web3 ecosystem treasuries can be maintained and improved. These resources could be useful for anyone interested in learning about treasuries!&#x20;
-
-The resources will mostly focus on Web3 ecosystems, exploring different treasury development opportunities and approaches.
-
-These resources are provided as a public good to help benefit any nation, organisation or emerging Web3 community.
+These resources aim to provide insightful and actionable information about how Web3 ecosystem treasuries can be developed and improved. These resources focus on Web3 ecosystem treasuries and the different opportunities and approaches that could be adopted. The majority of the treasury analysis so far has been focused on [disbursement](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/).
 
 
 
