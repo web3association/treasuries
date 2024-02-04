@@ -16,6 +16,11 @@
 * [Stakeholders](web3-treasuries/stakeholders.md)
 * [Operating process](web3-treasuries/operating-process.md)
 
+## Incentives
+
+* [Misaligned, partially aligned & fully aligned incentives](incentives/misaligned-partially-aligned-and-fully-aligned-incentives.md)
+* [Project token vs base network circular economies](incentives/project-token-vs-base-network-circular-economies.md)
+
 ## 🔗 Links
 
 * [Disbursement](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
