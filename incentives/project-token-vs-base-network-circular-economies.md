@@ -141,7 +141,7 @@ Web3 ecosystem projects could introduce a token to try and create their own circ
 
 ## Base network **incentives**
 
-Base network incentives mean that get funding is made available through the blockchain or distributed ledgers own treasury disbursement process. These treasuries could have been established due to a community allocation from genesis or could exist due to a circular economy where the ongoing transaction fees help to build up the treasury over time. Either a foundation or the coin holders of that ecosystem will often determine how that treasury is disbursed to support the most impactful initiatives in the ecosystem.
+Base network incentives mean that any available funding is requested through the networks own treasury disbursement process. These treasuries could have been established due to a community allocation from genesis or could exist due to a circular economy where the ongoing transaction fees help to build up the treasury over time. Either a foundation or the coin holders of that ecosystem will often determine how that treasury is disbursed to support the most impactful initiatives in the ecosystem.
 
 <div align="left">
 
