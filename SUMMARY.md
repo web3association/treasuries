@@ -15,6 +15,7 @@
 * [Opportunities & concerns](web3-treasuries/opportunities-and-concerns.md)
 * [Stakeholders](web3-treasuries/stakeholders.md)
 * [Operating process](web3-treasuries/operating-process.md)
+* [Funding responsibilities](web3-treasuries/funding-responsibilities.md)
 
 ## Incentives
 
