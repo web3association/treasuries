@@ -17,13 +17,7 @@ To better think about how a treasury could be operated and improved we can outli
 
 How effectively an ecosystem is able to repeatedly move through this operating process will influence the quality of the outcomes they are able to produce. We can also explore how this process currently applies to existing ecosystems such as nation states or corporations to better compare how these different ecosystems operate compared to Web3 ecosystems. This comparison can then help with better identifying what problems and opportunities might exist for improving Web3 treasury systems and processes.
 
-
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/operating-process.jpg" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/operating-process.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
