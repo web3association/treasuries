@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/treasury-incentives.png" alt=""><figcaption></figcaption></figure>
 
-Ecosystem initiatives need a sustainable way to fund the ongoing contribution efforts that are needed to execute their ideas and generate impact across the ecosystem. Two approaches that can be compared are token based funding, where projects raise investment from minting a project token and contributor network funding, where a networks treasury funds contributors directly to work on ecosystem initiatives.
+Ecosystem contributors need a sustainable way to fund their ongoing contribution efforts to execute impactful ideas. Two approaches that can be compared are token based funding, where projects raise investment from minting a project token and contributor network funding, where a networks treasury funds contributors directly to work on ecosystem initiatives.
 
 
 
