@@ -23,9 +23,12 @@
 
 ## Funding
 
-* [Idea token vs contributor network funding](funding/idea-token-vs-contributor-network-funding/README.md)
+* [Idea token vs contributor network funding](incentives/project-token-vs-base-network-circular-economies.md)
   * [Circular economy ideas](funding/idea-token-vs-contributor-network-funding/circular-economy-ideas.md)
   * [Web2 protocols & software library examples](funding/idea-token-vs-contributor-network-funding/web2-protocols-and-software-library-examples.md)
+  * [Ecosystem funding factors for consideration](funding/idea-token-vs-contributor-network-funding/ecosystem-funding-factors-for-consideration.md)
+  * [Idea token funding](funding/idea-token-vs-contributor-network-funding/idea-token-funding.md)
+  * [Contributor network funding](funding/idea-token-vs-contributor-network-funding/contributor-network-funding.md)
 
 ## 🔗 Links
 
