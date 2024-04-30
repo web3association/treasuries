@@ -20,7 +20,12 @@
 ## Incentives
 
 * [Misaligned, partially aligned & fully aligned incentives](incentives/misaligned-partially-aligned-and-fully-aligned-incentives.md)
-* [Project token vs base network circular economies](incentives/project-token-vs-base-network-circular-economies.md)
+
+## Funding
+
+* [Idea token vs contributor network funding](funding/idea-token-vs-contributor-network-funding/README.md)
+  * [Circular economy ideas](funding/idea-token-vs-contributor-network-funding/circular-economy-ideas.md)
+  * [Web2 protocols & software library examples](funding/idea-token-vs-contributor-network-funding/web2-protocols-and-software-library-examples.md)
 
 ## 🔗 Links
 

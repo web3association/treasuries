@@ -1,12 +1,12 @@
 ---
 description: >-
-  Comparing the differences between circular economies that can emerge through
-  treasuries from project tokens and base networks
+  Comparing the differences between idea token vs contributor network funding
+  approaches
 ---
 
-# Project token vs base network circular economies
+# Idea token vs contributor network funding
 
-<figure><img src="../.gitbook/assets/treasury-incentives.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/treasury-incentives.png" alt=""><figcaption></figcaption></figure>
 
 Web3 ecosystems can have a range of different incentives that flow through the ecosystem. One comparison worth exploring is the difference between creating token based circular economies with project protocols and applications against creating a larger circular economy using the native coin used at the base of the network. Either of these approaches could be used to help fund the development of the ecosystems protocols and applications.
 
@@ -111,7 +111,7 @@ Web3 ecosystem projects could introduce a token to try and create their own circ
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/project-token-incentives.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/project-token-incentives.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -145,7 +145,7 @@ Base network incentives mean that any available funding is requested through the
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/base-network-incentives.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/base-network-incentives.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
