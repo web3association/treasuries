@@ -6,7 +6,7 @@ description: >-
 
 # Idea token vs contributor network funding
 
-<figure><img src="../.gitbook/assets/treasury-incentives.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/treasury-incentives-header.png" alt=""><figcaption></figcaption></figure>
 
 Ecosystem contributors need a sustainable way to fund their ongoing contribution efforts to execute impactful ideas. Two approaches that can be compared are token based funding, where projects raise investment from minting a project token and contributor network funding, where a networks treasury funds contributors directly to work on ecosystem initiatives.
 
