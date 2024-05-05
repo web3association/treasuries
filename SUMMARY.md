@@ -29,6 +29,7 @@
   * [Ecosystem funding factors for consideration](funding/idea-token-vs-contributor-network-funding/ecosystem-funding-factors-for-consideration.md)
   * [Idea token funding](funding/idea-token-vs-contributor-network-funding/idea-token-funding.md)
   * [Contributor network funding](funding/idea-token-vs-contributor-network-funding/contributor-network-funding.md)
+  * [Funding the network, protocol and application layers](funding/idea-token-vs-contributor-network-funding/funding-the-network-protocol-and-application-layers.md)
 
 ## 🔗 Links
 

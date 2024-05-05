@@ -47,11 +47,22 @@ To compare these ecosystem funding approaches a number of [factors have been con
 
 <figure><img src="../.gitbook/assets/ecosystem-funding-approaches.png" alt=""><figcaption></figcaption></figure>
 
+**Funding the network, protocol and application layers**
+
+These ecosystem funding approaches can also be considered within the context of the different layers of a Web3 ecosystem. The network and infrastructure is at the base which then enables a number of protocols that can be deployed on top of this network. Applications are then able to integrate and use any of the functionality that is made available by the network and protocols to create end user experiences. Read more:
+
+{% content-ref url="../funding/idea-token-vs-contributor-network-funding/funding-the-network-protocol-and-application-layers.md" %}
+[funding-the-network-protocol-and-application-layers.md](../funding/idea-token-vs-contributor-network-funding/funding-the-network-protocol-and-application-layers.md)
+{% endcontent-ref %}
+
+
+
 **Key takeaways**
 
 * **Greatly reduced complexities when using contributor network funding** - Token based funding introduces a number of complexities for the contributors who commit to minting a token for their project. Network contributor funding gives contributors a large amount of flexibility to execute one or multiple ideas and reduces the complexity of committing to making long term utility for a token that could result in a more complicated solution for the end user.
 * **Many ideas do not need a token -** Many of the software and non software ideas that were previously listed above do not need to create a token with a circular economy. Adding a token to projects that do not have a sufficient justification to do so can increase the amount of governance and economic complexity involved in executing their idea and add personal burden to the contributors to maintain this token over time even in situations where it might not be an impactful initiative to work on anymore. Tokens can make contributors more responsible and attached to a single idea they are working on even though there might be other more impactful ideas they could have worked on to more effectively benefit the ecosystem.
 * **Base network funding helps to produce more fully aligned incentives -** Incentives that get disbursed from the network's treasury produce more fully aligned incentives to fully support initiatives that could generate impact for the ecosystem. The wider community can support initiatives that best support the network and produce the biggest chance of growing and improving the ecosystem. Base network incentives help to remove the misaligned and partially aligned incentive problems due to the removal of token holders from existing projects being incentivised to defend their own interests at the expense of what might be best for the wider ecosystem.
+* **Base network funding is more important for funding maintenance and improvement of the network itself** - As highlighted in the analysis around funding the network, protocol and application layers, the closer the software is to the network and infrastructure the more important it is that the code is open source and verifiable by the communiy. It also becomes more important that the network can sustain these initiatives itself that help to ensure the network will remain competitive over the long term. Network funding is highly suitable for supporting network and protocol efforts over the long term.
 
 
 
