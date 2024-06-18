@@ -17,6 +17,17 @@
 * [Operating process](web3-treasuries/operating-process.md)
 * [Funding responsibilities](web3-treasuries/funding-responsibilities.md)
 
+## Voting
+
+* [Voting power approaches](voting/voting-power-approaches/README.md)
+  * [Voting power factors for consideration](voting/voting-power-approaches/voting-power-factors-for-consideration.md)
+  * [One person one vote](voting/voting-power-approaches/one-person-one-vote.md)
+  * [Wealth based](voting/voting-power-approaches/wealth-based.md)
+  * [Locked wealth based](voting/voting-power-approaches/locked-wealth-based.md)
+  * [Ecosystem contributions](voting/voting-power-approaches/ecosystem-contributions.md)
+  * [Financial contributions](voting/voting-power-approaches/financial-contributions.md)
+  * [Tax contributions](voting/voting-power-approaches/tax-contributions.md)
+
 ## Incentives
 
 * [Misaligned, partially aligned & fully aligned incentives](incentives/misaligned-partially-aligned-and-fully-aligned-incentives.md)
