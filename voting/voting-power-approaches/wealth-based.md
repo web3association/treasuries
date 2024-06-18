@@ -22,7 +22,7 @@ A Web3 ecosystem can easily determine the amount of wealth that each wallet has 
 
 
 
-**Low fairness for network decisions (Score - 2)**
+**Low fairness for network decisions (Score - 2.5)**
 
 Wealth based voting power for network decisions is not very fair in situations where the people who are voting on these network changes can easily buy in and sell out of the ecosystem at a moment's notice. There is fairness in taking into account the wealth of each individual in the ecosystem when it comes to network parameters as all of these users have an amount of capital invested into the ecosystem and deserve the right for their capital to be respected and represented in a voting process. If their capital is not respected and there are many other ecosystems the wealthier individuals have no obligation to stay and could migrate towards where they are treated best. Another concern with a predominantly wealth based voting power approach is that it could give perpetual control to individuals who hold large positions in the network. These holders may provide no further value to the network beyond their initial investment but could be able to repeatedly extract value out of the network if they are able to vote on parameters that are self-serving to the wealthiest individuals. Wealth based voting power becomes less fair over time as transaction fees become the more important reason why the network survives and succeeds rather than the initial capital that people invested.
 
@@ -34,4 +34,4 @@ Wealth based voting power is at its fairest at the beginning of a Web3 ecosystem
 
 
 
-**Total score = 8 / 15**
+**Total score = 8.5 / 15**
