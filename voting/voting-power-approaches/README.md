@@ -72,3 +72,35 @@ To compare these decision approaches a number of [factors have been considered](
 * **Tax contributions is one of the most aligned and fair long term voting power approaches** - Over the long term the most important contribution to the network's survival is ongoing transaction fees that pay for the validators. These same contributions could also help with funding an ecosystem treasury that helps to maintain and improve the network over the long term. It is fair for the people that contribute towards this treasury to have a proportional say in how their tax contributions are spent.
 * **Voting power approaches should ideally be combined to take into account multiple contribution factors** - Wealth based approaches make sense in the short term and are likely a part of a long term solution for network parameter decisions. Tax contributions based voting power is likely the most increasingly important approach over the long term. A hybrid approach would likely make sense that takes into account both wealth and tax contributions for both network and treasury decisions. Tax contributions could become one of the main approaches for treasury decisions over the long term as this would just mean the people that contribute to the network's treasury would have voting power to influence how that funding gets spent. One person one vote and both the financial and ecosystem contribution approaches could all be considered as supplementary approaches for certain decisions in addition to the suggested hybrid voting power system.
 * **Voting power approaches likely need to respond to market adoption** - The final outcome of what voting power approach is both fair and effective will be based on how the market evolves over time and the preferences of the users within each ecosystem. If the market consolidates to a handful of networks it will be more important to consider voting power approaches such as one person one vote as people might not have another alternative they can move to. If the market is more competitive over the long term and has multiple ecosystems being used across the world then the relevance of one person one vote would be reduced as no one is forcing a person to adopt one system over another.
+
+
+
+**Voting power approaches analysis**
+
+{% content-ref url="voting-power-factors-for-consideration.md" %}
+[voting-power-factors-for-consideration.md](voting-power-factors-for-consideration.md)
+{% endcontent-ref %}
+
+{% content-ref url="one-person-one-vote.md" %}
+[one-person-one-vote.md](one-person-one-vote.md)
+{% endcontent-ref %}
+
+{% content-ref url="wealth-based.md" %}
+[wealth-based.md](wealth-based.md)
+{% endcontent-ref %}
+
+{% content-ref url="locked-wealth-based.md" %}
+[locked-wealth-based.md](locked-wealth-based.md)
+{% endcontent-ref %}
+
+{% content-ref url="ecosystem-contributions.md" %}
+[ecosystem-contributions.md](ecosystem-contributions.md)
+{% endcontent-ref %}
+
+{% content-ref url="financial-contributions.md" %}
+[financial-contributions.md](financial-contributions.md)
+{% endcontent-ref %}
+
+{% content-ref url="tax-contributions.md" %}
+[tax-contributions.md](tax-contributions.md)
+{% endcontent-ref %}
