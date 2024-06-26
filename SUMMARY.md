@@ -27,6 +27,13 @@
   * [Ecosystem contributions](voting/voting-power-approaches/ecosystem-contributions.md)
   * [Financial contributions](voting/voting-power-approaches/financial-contributions.md)
   * [Tax contributions](voting/voting-power-approaches/tax-contributions.md)
+* [Voting approaches](voting/voting-approaches/README.md)
+  * [Voting factors for consideration](voting/voting-approaches/voting-factors-for-consideration.md)
+  * [Plurality voting](voting/voting-approaches/plurality-voting.md)
+  * [Majority voting](voting/voting-approaches/majority-voting.md)
+  * [Proportional voting](voting/voting-approaches/proportional-voting.md)
+  * [Preference voting](voting/voting-approaches/preference-voting.md)
+  * [Score voting](voting/voting-approaches/score-voting.md)
 
 ## Incentives
 
