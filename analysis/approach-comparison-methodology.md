@@ -6,7 +6,7 @@ description: >-
 
 # Approach comparison methodology
 
-A number of analytical comparisons are made across this documentation. These comparisons explore the trade offs between the approaches that could be used for different parts of a treasury system. All of these comparisons start by listing out the most important factors that can be considered when analysing the differences between any of the approaches. Each approach is then analysed against those factors to see how effective it is at addressing them.
+A number of analytical comparisons are made across this documentation. These comparisons explore the trade offs between approaches that could be used for different parts of a treasury system. All of these comparisons start by listing out the most important factors that can be considered when analysing the differences between any of the approaches. Each approach is then analysed against those factors to see how effective it is at addressing them.
 
 
 
