@@ -55,6 +55,10 @@
 * [Disbursement](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
 * [Suggestions](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
 
+## 📝 Analysis
+
+* [Approach comparison methodology](analysis/approach-comparison-methodology.md)
+
 ## 🙋 Contributors
 
 * [Web3 Association](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/zQLAwDu1M3Ts4d7syiK4/)

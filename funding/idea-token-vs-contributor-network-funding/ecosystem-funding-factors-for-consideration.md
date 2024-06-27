@@ -4,10 +4,14 @@ description: Factors for consideration for different ecosystem funding approache
 
 # Ecosystem funding factors for consideration
 
+The [methodology](../../analysis/approach-comparison-methodology.md) used for this approach comparison is documented separately.
+
+
+
 **Funding complexity**
 
 * **Description** - Network improvements, protocols and applications will all need a sufficient amount of access to funding to pay for the contribution efforts involved with developing high quality software. How an ecosystems funding flows through the network will influence the incentives that exist and how easy it is for contributors to sustainably receive funding.
-* **Importance score** - 5, Very important. Access to funding is a vital part of making a sustainable ecosystem over the long term and paying contributors to improve and maintain the network whilst also developing new protocols, applications and software libraries.
+* **Maximum score** - 5, Very important. Access to funding is a vital part of making a sustainable ecosystem over the long term and paying contributors to improve and maintain the network whilst also developing new protocols, applications and software libraries.
 * **Scoring questions**
   * **Public goods funding** - How does the approach influence how contributors receive funding and does this approach increase or decrease the ease and complexity of funding publics goods? Does the approach help to increase a communities access to open source software?
   * **Upfront commitment complexity** - Does the approach increase the amount of upfront commitment and complexity for the contributors due to how funding is made available?
@@ -19,7 +23,7 @@ description: Factors for consideration for different ecosystem funding approache
 **Contribution flexibility**
 
 * **Description** - Contributors can work on many different ideas to generate impact in an ecosystem. An ecosystem can benefit from the top performers being able to easily align themselves with the execution of initiatives that can generate the most impact for the ecosystem.
-* **Importance score** - 5, Very important. Contributors being able to direct their efforts to the most impactful initiatives could be of paramount importance to the stability and development of a network. Critical problems or sudden opportunities can be more quickly identified and addressed if contributors are able to allocate their time towards the most important initiatives.
+* **Maximum score** - 5, Very important. Contributors being able to direct their efforts to the most impactful initiatives could be of paramount importance to the stability and development of a network. Critical problems or sudden opportunities can be more quickly identified and addressed if contributors are able to allocate their time towards the most important initiatives.
 * **Scoring questions**
   * **Contributor commitment complexity** - Does the approach increase the amount of commitment a contributor needs to make when executing an idea? What contribution problems could this approach cause?
 * **Scoring** - Higher flexibility is good (Score - 5). Lower flexibility is bad (Score - 1).
@@ -29,7 +33,7 @@ description: Factors for consideration for different ecosystem funding approache
 **Collaboration complexity**
 
 * **Description** - How funding flows through an ecosystem can have a large influence on the amount of collaboration that occurs due to the structures and processes that have been put in place and the incentives that this produces.
-* **Importance score** - 5, Very important. An ecosystem that is more collaborative and aligned in executing similar ideas could be more performant at generating impact across the ecosystem. If funding encourages more competition over collaboration there is a risk that contribution efforts are increasingly wasted due to duplicated outcomes.
+* **Maximum score** - 5, Very important. An ecosystem that is more collaborative and aligned in executing similar ideas could be more performant at generating impact across the ecosystem. If funding encourages more competition over collaboration there is a risk that contribution efforts are increasingly wasted due to duplicated outcomes.
 * **Scoring questions**
   * **Collaboration incentives alignment** - Are other individuals and teams incentivised to collaborate with other projects? Are the incentives more aligned for collaboration or competition?
 * **Scoring** - Lower complexity is good (Score - 5). Higher complexity is bad (Score - 1).
@@ -39,7 +43,7 @@ description: Factors for consideration for different ecosystem funding approache
 **Varied outcomes complexity**
 
 * **Description** - Using a token or network for funding different initiatives can have a number of positive or negative implications on the different potential outcomes that can occur when executing an idea.
-* **Importance score** - 5, Very important. Executed ideas can create very different outcomes and the skill and competencies of each contributor could be relevant to a wide range of ideas. The most adopted funding approaches will impact how effective a Web3 ecosystem is at responding to these different potential scenarios.
+* **Maximum score** - 5, Very important. Executed ideas can create very different outcomes and the skill and competencies of each contributor could be relevant to a wide range of ideas. The most adopted funding approaches will impact how effective a Web3 ecosystem is at responding to these different potential scenarios.
 * **Scoring questions**
   * **Contributor stops working on project** - What happens if a contributor decides to stop working on a project? Does the contributor continue to receive income? What further impact would likely be generated by this project?
   * **Contributor works on another project** - What issues exist when a contributor wants to work on another project? What complexities and incentives exist that might prevent a contributor from doing this?
@@ -53,7 +57,7 @@ description: Factors for consideration for different ecosystem funding approache
 **Governance complexity**
 
 * **Description** - How funding flows through an ecosystem can have an impact on what governance complexities can emerge based on each persons incentives, commitment and involvement with a project.
-* **Importance score** - 5, Very important. The most adopted funding approaches in a Web3 ecosystem can result in different governance structures and behaviours. Decisions and behaviours that emerge from governance may or may not be positive for generating impact for an ecosystem over the long term.
+* **Maximum score** - 5, Very important. The most adopted funding approaches in a Web3 ecosystem can result in different governance structures and behaviours. Decisions and behaviours that emerge from governance may or may not be positive for generating impact for an ecosystem over the long term.
 * **Scoring questions**
   * **Ownership complexity** - Who owns the project and how could this ownership change over time based on how the project is being funded? What risks and complexities does this ownership have?
   * **Leadership complexity** - What complexities exist when identifying and selecting leadership that is suitable for leading and executing an idea? How could this leadership change based on how the project is structured and funded?
@@ -65,7 +69,7 @@ description: Factors for consideration for different ecosystem funding approache
 **Token utility complexity**
 
 * **Description** - Introducing a token has a number of considerations and complexities to consider. The long term value of a token can be highly influenced by the use cases it has and its purpose.
-* **Importance score** - 5, Very important. Projects need to consider the longevity and importance of the use cases for their token before minting a new token that they issue to investors. It is difficult to abandon a token once it has been created. Committing to a token increases the importance that the contributors involved have a high conviction that the token is absolutely necessary for the project over the long term.
+* **Maximum score** - 5, Very important. Projects need to consider the longevity and importance of the use cases for their token before minting a new token that they issue to investors. It is difficult to abandon a token once it has been created. Committing to a token increases the importance that the contributors involved have a high conviction that the token is absolutely necessary for the project over the long term.
 * **Scoring questions**
   * **Long term use case complexity** - What utilities will the token be used for? Could the base network coin be used instead of the token? If the token is used for governance why does this make sense for the project? Could the project end up with centralised actors who control the project and is this a good outcome for the project?
 * **Scoring** - Lower complexity is good (Score - 5). Higher complexity is bad (Score - 1).
@@ -75,7 +79,7 @@ description: Factors for consideration for different ecosystem funding approache
 **Community usage complexity**
 
 * **Description** - Adding a token to a project can have a number of implications for the community members using the project due to how the token could influence how the project is used and governed.
-* **Importance score** - 5, Very important. Projects that introduce tokens into their project need to consider what complexities that token could introduce for the end user of the idea. Community members might need to be concerned with how they use the protocol or application due to the tokens utility or they might need to be more aware or even involved with governance due to how it impacts their own usage.
+* **Maximum score** - 5, Very important. Projects that introduce tokens into their project need to consider what complexities that token could introduce for the end user of the idea. Community members might need to be concerned with how they use the protocol or application due to the tokens utility or they might need to be more aware or even involved with governance due to how it impacts their own usage.
 * **Scoring questions**
   * **Usage complexity** - How could the project be influenced by the usage of a token? What could community members be concerned with due to how the project is funded and governed? What complexities are introduced for the end user and are those complexities justified?
 * **Scoring** - Lower complexity is good (Score - 5). Higher complexity is bad (Score - 1).
