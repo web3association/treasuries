@@ -20,6 +20,7 @@ Score based voting systems, also known as evaluative or cardinal voting systems,
 
 * **Approval Voting** - Voters can vote for (approve) as many proposals as they like. The proposals with the most approvals win.
 * **Disapproval Voting (Veto Voting)** - Voters can vote against (veto) as many proposals as they like. The proposals with the fewest negative votes win.
+* **Balanced Approval Voting** - Voters can vote "yes" or "no" on each proposal. The final outcome is determined by calculating the net approval (yes votes minus no votes) for each proposal.
 * **Score Voting (Range Voting)** - Voters score each proposal on a scale (e.g., 0 to 5). The proposals with the highest total score win.
 * **Majority Judgment** - Voters grade each proposal on a scale (e.g., Excellent, Good, Fair, Poor, Very Poor). The proposal with the highest median grade wins.
 * **Spend Voting -** Voters have a certain number of votes they can distribute as they see fit. Voters can only spend their points once. A flexible number of votes is another variant that is occasionally used that enables voters to decide the total number of votes they want to allocate.
