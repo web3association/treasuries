@@ -44,3 +44,7 @@ The simple execution of these voting approaches with just two voting options and
 * **Accuracy & expressiveness** - Voters would be able to select any of the proposals that they prefer. Expressiveness would be limited as voters would only be able to indicate the proposals they support but not the intensity in which they prefer them.
 * **Time required to participate** - Voters would just need to select the options they prefer and would not need to rank and understand every proposal to participate in the decision.
 * **Voting complexity** - The complexity would only linearly grow as the number of options increases. Voters would not be required to review every proposal. Voters would only need to read and understand the proposals that they want to review and when they have the capacity to do so.
+
+
+
+**Total score = 9 / 15**
