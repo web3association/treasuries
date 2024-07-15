@@ -12,10 +12,10 @@ Ecosystem contributors need a sustainable way to fund their ongoing contribution
 
 
 
-Over the previous years token based funding has been a popular way for projects to raise funding to pay for execution efforts. Network contributor funding is not as widely seen across Web3 ecosystems. This suggested approach has emerged after analysing the different ways a networks treasury could handle disbursement. Open source contributor funding emerged as a promising approach for compensating contributors that execute different ideas across the network. This analysis will ignore network idea funding as this approach and the problems it has are already well covered across the disbursement analysis resources:
+Over the previous years token based funding has been a popular way for projects to raise funding to pay for execution efforts. Network contributor funding is not as widely seen across Web3 ecosystems. This suggested approach has emerged after analysing the different ways a networks treasury could handle funding. Open source contributor funding emerged as a promising approach for compensating contributors that execute different ideas across the network. This analysis will ignore network idea funding as this approach and the problems it has are already well covered across the funding analysis resources:
 
 {% content-ref url="https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/" %}
-[Disbursement](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
+[Funding](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
 {% endcontent-ref %}
 
 

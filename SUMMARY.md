@@ -70,7 +70,7 @@
 ## 🔗 Links
 
 * [Income](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/)
-* [Disbursement](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
+* [Funding](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/8L61e8ulVlk90t5mlQk1/)
 * [Suggestions](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
 
 ## 📝 Analysis
