@@ -76,8 +76,8 @@ The initial suggested score voting approach has a few key problems that could be
 
 **Suggested score voting approach**
 
-After applying the suggested improvement ideas with the initial suggestion an updated suggestion can be documented. Expressive binary & approval voting could be an effective score voting approach for Web3 ecosystems to adopt at scale:
+After applying the suggested improvement ideas with the initial suggestion an updated suggestion can be documented. Expressive approval voting with decision disapprovals could be an effective score voting approach for Web3 ecosystems to adopt at scale:
 
-{% content-ref url="expressive-binary-and-approval-voting-with-mass-proposal-downvoting.md" %}
-[expressive-binary-and-approval-voting-with-mass-proposal-downvoting.md](expressive-binary-and-approval-voting-with-mass-proposal-downvoting.md)
+{% content-ref url="expressive-approval-voting-with-decision-disapprovals.md" %}
+[expressive-approval-voting-with-decision-disapprovals.md](expressive-approval-voting-with-decision-disapprovals.md)
 {% endcontent-ref %}

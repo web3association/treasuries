@@ -57,6 +57,6 @@ A general purpose operating process can be applied to many areas of operation or
 
 **Applying this operating process to treasuries**
 
-{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/disbursement-process" %}
-[Disbursement process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/disbursement-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/funding-process" %}
+[Funding process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/funding-process)
 {% endcontent-ref %}

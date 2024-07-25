@@ -51,7 +51,7 @@
     * [Single point per proposal](voting/score-voting-approaches/points-allocation-approaches/single-point-per-proposal.md)
   * [Applying the score voting examples to these approaches](voting/score-voting-approaches/applying-the-score-voting-examples-to-these-approaches.md)
   * [Voting approach improvement ideas](voting/score-voting-approaches/voting-approach-improvement-ideas.md)
-  * [Expressive binary & approval voting with mass proposal downvoting](voting/score-voting-approaches/expressive-binary-and-approval-voting-with-mass-proposal-downvoting.md)
+  * [Expressive approval voting with decision disapprovals](voting/score-voting-approaches/expressive-approval-voting-with-decision-disapprovals.md)
 
 ## Incentives
 
