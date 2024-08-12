@@ -4,9 +4,9 @@
 
 ## Treasuries
 
-* [Definition, purpose & responsibilities](treasuries/definition-purpose-and-responsibilities.md)
+* [Purpose & responsibilities](treasuries/purpose-and-responsibilities.md)
+* [Impact of treasuries](treasuries/impact-of-treasuries.md)
 * [Functional processes](treasuries/functional-processes.md)
-* [Importance of treasuries](treasuries/importance-of-treasuries.md)
 * [Example treasuries](treasuries/example-treasuries.md)
 
 ## Web3 Treasuries
