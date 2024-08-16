@@ -24,7 +24,7 @@ There are a number of systems and processes involved in managing a treasury and 
 
 **Disbursement**
 
-Systems and processes are needed to effectively disburse treasury assets towards the most promising initiatives that could generate impact for the ecosystem and that help with addressing any goals and objectives. Progress needs to be audited and verified and impact needs to be measured when initiatives get completed.
+Systems and processes are needed to allocate funding towards promising initiatives that could generate impact for an ecosystem and that could help with addressing any goals and objectives. Progress needs to be audited and verified and impact needs to be measured when initiatives get completed. Treasuries might also need to disburse assets to pay for operational costs involved in maintaining and operating the treasury itself.
 
 
 
