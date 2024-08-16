@@ -4,7 +4,7 @@ description: Opportunities and concerns for Web3 treasuries
 
 # Opportunities & concerns
 
-**Web3 opportunities for improving treasury systems**
+**Opportunities to improve treasury systems**
 
 Blockchain and distributed ledger technology provide a number of opportunities for improving how treasuries are developed and operated. Many of these improvements could lead to increases in economic stability and treasury efficiency. Efficiency gains could reduce costs or increase growth or the amount of funding that an ecosystem has available for funding public goods. Even small percentage improvements in how these treasuries are managed and how funds get disbursed can represent a massive return on investment for growing Web3 ecosystems. Some example opportunities include:
 
