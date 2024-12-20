@@ -12,7 +12,7 @@ Treasury management is complex and requires the use of a variety of different sy
 
 **Income**
 
-Treasuries can often require an ongoing source of income to be sustainable over the long term. Income from come from one or multiple sources such as transaction fees, product or service offerings, financial yields, investment returns or from donations.
+Treasuries can often require an ongoing source of income to be sustainable over the long term. Income could come from one or multiple sources such as transaction fees, product or service offerings, financial yields, investment returns, wealth taxes or donations.
 
 
 
