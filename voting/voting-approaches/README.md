@@ -6,7 +6,7 @@ description: >-
 
 # Voting approaches
 
-The voting approaches that are adopted in Web3 ecosystems will impact the level of accuracy and expressiveness they will achieve with their voting system. Voters will often want voting systems that enable them to easily express their preferences and opinions. The adopted voting approach can also impact the total time it takes for voters to participate and the amount of complexity there is for making decisions.
+The voting approaches that are adopted in Web3 ecosystems will impact the level of accuracy and expressiveness that can be achieved using that voting system. Voters will often want voting systems that enable them to easily express their preferences and opinions. The adopted voting approach could also impact the total time it takes for voters to participate and the amount of complexity there is for making decisions. This analysis is mostly concerned with what voting approaches could be the most suitable for globally adopted Web3 networks. The larger a network becomes the more important it is to keep governance systems as simple as possible. Globally adopted networks have a high cost for voter participation and more risks around poor decision making due to the potential complexity of the voting process.
 
 
 
