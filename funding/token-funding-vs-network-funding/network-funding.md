@@ -1,8 +1,8 @@
-# Contributor network funding
+# Network funding
 
 <div align="left"><figure><img src="../../.gitbook/assets/contributor-network-incentives-header.png" alt="" width="185"><figcaption></figcaption></figure></div>
 
-Contributor network funding is when the base network pays for contributors directly from the treasury. A network treasury that can fund contributors directly could have been established due to a community asset allocation from genesis or could exist due to a circular economy where transaction fees help to build up the treasury over time. Either the foundation behind the network or the coin holders of the ecosystem will be responsible for determining how the treasury assets are allocated.
+Network funding is when the base network pays for contributors directly from the treasury. A network treasury that can fund contributors directly could have been established due to a community asset allocation from genesis or could exist due to a circular economy where transaction fees help to build up the treasury over time. Either the foundation behind the network or the coin holders of the ecosystem will be responsible for determining how the treasury assets are allocated.
 
 <div align="left"><figure><img src="../../.gitbook/assets/contributor-network-incentives (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 

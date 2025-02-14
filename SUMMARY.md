@@ -59,13 +59,13 @@
 
 ## Funding
 
-* [Idea token vs contributor network funding](incentives/project-token-vs-base-network-circular-economies.md)
-  * [Circular economy ideas](funding/idea-token-vs-contributor-network-funding/circular-economy-ideas.md)
-  * [Web2 protocols & software library examples](funding/idea-token-vs-contributor-network-funding/web2-protocols-and-software-library-examples.md)
-  * [Ecosystem funding factors for consideration](funding/idea-token-vs-contributor-network-funding/ecosystem-funding-factors-for-consideration.md)
-  * [Idea token funding](funding/idea-token-vs-contributor-network-funding/idea-token-funding.md)
-  * [Contributor network funding](funding/idea-token-vs-contributor-network-funding/contributor-network-funding.md)
-  * [Funding the network, protocol and application layers](funding/idea-token-vs-contributor-network-funding/funding-the-network-protocol-and-application-layers.md)
+* [Token funding vs network funding](funding/token-funding-vs-network-funding/README.md)
+  * [Circular economy ideas](funding/token-funding-vs-network-funding/circular-economy-ideas.md)
+  * [Web2 protocols & software library examples](funding/token-funding-vs-network-funding/web2-protocols-and-software-library-examples.md)
+  * [Ecosystem funding factors for consideration](funding/token-funding-vs-network-funding/ecosystem-funding-factors-for-consideration.md)
+  * [Token funding](funding/token-funding-vs-network-funding/token-funding.md)
+  * [Network funding](funding/token-funding-vs-network-funding/network-funding.md)
+  * [Funding the network, protocol and application layers](funding/token-funding-vs-network-funding/funding-the-network-protocol-and-application-layers.md)
 
 ## 🔗 Links
 
