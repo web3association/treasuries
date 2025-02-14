@@ -57,6 +57,6 @@ A general purpose operating process can be applied to any area within an ecosyst
 
 **Applying this operating process to treasuries**
 
-{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/funding-process" %}
-[Funding process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/funding-process)
+{% content-ref url="https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/disbursement-operating-process" %}
+[Funding process](https://app.gitbook.com/s/8L61e8ulVlk90t5mlQk1/process/disbursement-operating-process)
 {% endcontent-ref %}
