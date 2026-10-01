@@ -18,11 +18,7 @@ An ongoing priority for Web3 ecosystems is the identification and removal of as 
 
 ## Misaligned incentives
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/misaligned-incentives.png" alt="" width="200"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/misaligned-incentives.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 Misaligned incentives can lead to suboptimal decision making and outcomes. Treasury systems and processes that do not perform well can eventually break down the trust a community has in these ecosystems. Misaligned incentives can lead to resource misallocation, short term thinking, increased centralisation and ethical and social concerns. Misaligned incentives should ideally be removed from an ecosystem to increase the likelihood that impactful outcomes can be more consistently achieved.
 
@@ -42,11 +38,7 @@ Contributors could develop solutions and use cases that are beneficial for a pro
 
 ## Partially aligned incentives
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/partially-aligned-incentives.png" alt="" width="200"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/partially-aligned-incentives.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 Partially aligned incentives sit in the middle between misaligned incentives and fully align incentives. Partially aligned incentives occur when there is a clear shared benefit in supporting a certain initiative however there is also a counteracting incentive that encourages people to consider not supporting that same initiative. Partially aligned incentives could cause a larger amount of governance and decision complexity for communities due to the need for them to agree on conflicting arguments and reasons to support or not support a given initiative.
 
@@ -66,11 +58,7 @@ Some task based incentives could be only partially aligned with generating the r
 
 ## Fully aligned incentives
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/fully-aligned-incentives.png" alt="" width="200"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/fully-aligned-incentives.png" alt="" width="200"><figcaption></figcaption></figure></div>
 
 Fully aligned incentives occur when there is shared alignment and benefit to support an initiative and little to no incentive for people to not support that initiative. Fully aligned incentives will mean that both the givers and receivers of the incentive should mutually benefit from an initiative being executed.
 
@@ -84,4 +72,4 @@ The networks own treasury being used to fund open source utility libraries is an
 
 **Impact focused contributor incentives**
 
-Contributors who are paid directly from a Web3 ecosystems treasury to generate impact could be another example of a more fully aligned incentive. The provider of the incentive, the communities ecosystem treasury, wants to select and compensate competent professionals to improve the network and the use cases it provides. The contributors who would be receiver of that incentive want to be paid for their contribution efforts that help with executing impactful initiatives.
+Contributors who are paid directly from a Web3 ecosystems treasury to generate impact could be another example of a more fully aligned incentive. The provider of the incentive, the communities ecosystem treasury, wants to select and compensate competent professionals to improve the network and the use cases it provides. The contributors who would be the receivers of that incentive who would want to be paid for their contribution efforts that help with executing impactful initiatives.
